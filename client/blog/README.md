@@ -1,1 +1,1 @@
-This app is going to replace medium.com as my main blog posting method. More instructions to come in ReadMe!
+This app is going to replace medium.com as my main blog posting method. More instructions to come in ReadMe
